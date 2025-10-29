@@ -31,6 +31,9 @@ The dataset used for this project is titled **BlinkIT Grocery Data.xlsx** and co
 
 ---
 
+![Uploading Screenshot 2025-10-27 180529.png…]()
+
+
 ## 🧠 Objectives of the Analysis
 - Identify top-performing outlets and product categories.  
 - Analyze the relationship between **MRP** and **sales**.  
